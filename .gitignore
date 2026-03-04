@@ -6,8 +6,12 @@ __pycache__/
 # C extensions
 *.so
 
-.vscode/
-.github/
+# complementos
+*.vscode/
+*.github/
+
+# Programas
+*.exe
 
 # Distribution / packaging
 .Python
