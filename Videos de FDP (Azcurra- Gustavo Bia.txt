@@ -1,0 +1,79 @@
+Videos de FDP (Azcurra- Gustavo Bianchi)
+Introducción:
+1. https://youtu.be/OY10r0w_sYA
+Video 1 - Origen - Características - Compilador Vs Intérprete - Primer Programa (GB)
+
+2. https://youtu.be/j8u0rKgFu0c 
+Video 2 - Declaración de Variables - printf - scanf - Formateo de datos - Errores en tiempo de compilación y ejecución (GB)
+
+3.https://youtu.be/ogii-4wivms
+Video 3 - Operadores Aritméticos, Lógicos y Comparativos - Definición de Constantes - Introduccion a tipos numéricos (GB)
+
+4.https://youtu.be/zINEaYKeng0
+Video 4 - Estructura Condicional if, uso simple, compuesto y anidado (GB)
+
+5. https://youtu.be/VWnh9hEpmJg
+Video 5 - Estructura Iterativa for (GB)
+
+Funciones: 
+
+Video 1 - Introducción a la Programación Estructurada y Modular (GB)
+1. https://youtu.be/T7dVRwjX2jg
+
+2. https://youtu.be/5HSLxI-NxRo
+Video 2 - Explicativo sobre Declaración de Funciones en Lenguaje "C" (GB)
+
+3.https://youtu.be/U464kcOq7dE
+Video 3 - Ejemplo del Flujo del Programa cuando está modularizado (GB)
+En este video se explica con un ejemplo, como actúa un programa que está modularizado. 
+A su vez, también se explica el ámbito de vida de las variables, y cuándo estas son locales y cuándo globales.
+
+Arreglos: 
+1.https://youtu.be/s9YlPFrdAOQ
+Video 1 - Conceptos (GB)
+
+2.https://youtu.be/vGgEvJ9-FUw
+Video 2 - Alternativas de Declaración (GB)
+
+3.https://youtu.be/qnFKF-ZmRiM
+Video 3 - Declaración de tipos y constantes (GB)
+
+4.https://youtu.be/fZ0C-qPsBIo
+Video 4 - Recorriendo todo el arreglo con for (GB)
+
+5.https://youtu.be/vv5sRceQvbQ
+Video 5 - Ejemplos prácticos (GB)
+
+Cadenas: 
+1.https://youtu.be/lvZggDSBw3E
+Video 1 - Conceptos y Formas de Declararlas (GB)URL
+2.https://youtu.be/pXkmuX-dZkw
+Video 2 - Ejemplos de como declararlas, recorrerlas y modificarlas (GB)URL
+3.https://youtu.be/amJiqSrslEE
+Video 3 - Alternativas de Declaración (GB)URL
+4.https://youtu.be/TutHY19YdWM
+Video 4 - Como leer - fgets vs scanf (GB)URL
+5.https://youtu.be/LP_xeAH6Jvo
+Video 5 - Funciones - Ejemplos de Uso (GB)
+
+Archivos:
+1.https://youtu.be/IpqK8u1FpLc
+Video 1 - Conceptos, características y clasificaciones (GB)URL
+2.https://youtu.be/83spTyFl1oA
+Video 2 - Pasos y procesos para manejo de archivos (GB)URL
+3.https://youtu.be/WRXFixFRRUM
+Video 3 - Caso Práctico Escritura - Generando un archivo con datos (GB)URL
+4.https://youtu.be/kAKnTQJv-0k
+Video 4 - Caso Práctico Lectura - Mostrando el contenido de un archivo (GB)
+
+Archivos de texto:
+1.https://youtu.be/vfFoiiXwkTs
+Video 1 - Conceptos Fundamentales - Alternativas de Lectura y Escritura (GB)URL
+2.https://youtu.be/qKI4HyuZW7g
+Video 2 - Ejemplos de Alternativas de Lectura (GB)URL
+3.https://youtu.be/UdW6XPXj320
+Video 3 - Ejemplos de Alternativas de Escritura (GB)
+
+Clase completa manejo de archivos: https://youtu.be/C0OJAtr34FU
+
+Memoria dinámica: https://man7.org/linux/man-pages/man3/malloc.3.html
